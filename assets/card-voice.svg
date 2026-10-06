@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150" role="img" aria-label="Voice agent">
+  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1a30"/><stop offset="1" stop-color="#14213D"/></linearGradient></defs>
+  <style>.f{animation:d 5s linear infinite;animation-delay:1.7999999999999998s}@keyframes d{to{stroke-dashoffset:-1400}}</style>
+  <rect x="2" y="2" width="556" height="146" rx="16" fill="url(#b)" stroke="#1F6F5C" stroke-width="2"/>
+  <rect class="f" x="2" y="2" width="556" height="146" rx="16" fill="none" stroke="#E8FF3A" stroke-width="2.5" stroke-dasharray="140 1260"/>
+  <text x="28" y="50" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="800" fill="#E8FF3A">Voice agent</text>
+  <text x="28" y="86" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#ffffff">Talk to any character by voice</text>
+  <text x="28" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9fb3c8">Deepgram · GPT-4o-mini · ElevenLabs · Gradio</text>
+  <circle cx="514" cy="42" r="7" fill="#5FBF8F"/><text x="500" y="47" text-anchor="end" font-family="Consolas,monospace" font-size="14" fill="#9fb3c8">Python</text>
+</svg>

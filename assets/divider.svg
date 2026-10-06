@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#E8FF3A" stop-opacity="0"/><stop offset=".5" stop-color="#E8FF3A"/><stop offset="1" stop-color="#E8FF3A" stop-opacity="0"/></linearGradient></defs>
+  <style>.m{animation:run 4s linear infinite}@keyframes run{from{transform:translateX(-400px)}to{transform:translateX(1200px)}}</style>
+  <rect y="11" width="1200" height="2" fill="#1F6F5C"/>
+  <rect class="m" y="10" width="400" height="4" fill="url(#g)"/>
+</svg>

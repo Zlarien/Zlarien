@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="BUILDAI TODAY, Mohamed-Zayim, AI agents, Paris">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1424"/>
+      <stop offset="0.55" stop-color="#14213D"/>
+      <stop offset="1" stop-color="#1F6F5C"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b1"/>
+      <feGaussianBlur stdDeviation="14" result="b2"/>
+      <feMerge><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E8FF3A" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <style>
+    .title{fill:none;stroke:#E8FF3A;stroke-width:3;filter:url(#glow);animation:flicker 6s infinite}
+    .sub{fill:#ffffff;opacity:.92}
+    .tag{fill:#E8FF3A}
+    .line{opacity:0;animation:cycle 12s infinite}
+    .l2{animation-delay:4s}.l3{animation-delay:8s}
+    .scan{animation:scan 7s linear infinite}
+    .orb{animation:float 9s ease-in-out infinite}
+    @keyframes flicker{0%,18%,22%,62%,64%,100%{opacity:1}20%,63%{opacity:.45}}
+    @keyframes cycle{0%{opacity:0;transform:translateY(8px)}6%,30%{opacity:1;transform:translateY(0)}36%,100%{opacity:0}}
+    @keyframes scan{from{transform:translateX(-300px)}to{transform:translateX(1300px)}}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+  </style>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle class="orb" cx="1060" cy="70" r="90" fill="#E8FF3A" fill-opacity="0.06"/>
+  <circle class="orb" cx="130" cy="270" r="70" fill="#1F6F5C" fill-opacity="0.35" style="animation-delay:3s"/>
+  <rect class="scan" x="0" y="0" width="120" height="320" fill="#E8FF3A" fill-opacity="0.05"/>
+  <text class="title" font-family="Arial Black, Segoe UI Black, Helvetica, Arial, sans-serif" font-size="112" font-weight="900" letter-spacing="6" x="600" y="160" text-anchor="middle">BUILDAI TODAY</text>
+  <text class="sub" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" x="600" y="214" text-anchor="middle">Mohamed-Zayim · AI agents · Paris</text>
+  <g text-anchor="middle" font-family="Consolas, Courier New, monospace" font-size="20" font-weight="600">
+    <text class="tag line l1" x="600" y="268">&gt; AI is accessible to everyone, with the right method and the right tools.</text>
+    <text class="tag line l2" x="600" y="268">&gt; I build AI agents that give teams their hours back.</text>
+    <text class="tag line l3" x="600" y="268">&gt; Now building Bunny, an AI fitness companion.</text>
+  </g>
+</svg>
