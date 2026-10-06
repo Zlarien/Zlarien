@@ -20,6 +20,12 @@ Longtemps, je savais ce que je voulais construire, mais je n'agissais pas. Le jo
 
 <img src="assets/divider.svg" width="100%"/>
 
+## 🧭 Le chemin jusqu'ici
+
+<img src="assets/timeline-fr.svg" width="100%" alt="Chronologie : AURA, OwnAI, Piscine 42 Paris, admis à 42, NEXUS, je construis Bunny"/>
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## 🐇 En ce moment : Bunny
 
 Un coach compagnon IA pour le sport et la santé, en forme de lapin qui grandit avec toi. Démo locale, pas encore lancé.

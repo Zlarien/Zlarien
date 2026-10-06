@@ -22,6 +22,12 @@ For a long time I knew what I wanted to build, but I didn't act. The day I start
 
 <img src="assets/divider.svg" width="100%"/>
 
+## 🧭 The path so far
+
+<img src="assets/timeline.svg" width="100%" alt="Timeline: AURA, OwnAI, 42 Paris Piscine, admitted to 42, NEXUS, building Bunny now"/>
+
+<img src="assets/divider.svg" width="100%"/>
+
 ## 🐇 Now building: Bunny
 
 An AI companion coach for fitness and health, shaped like a rabbit that grows with you. Local demo, not released yet.
