@@ -4,9 +4,11 @@
 
 **AI agent builder · CS student in Paris (L3 · admitted to 42 Paris)**
 
-[![Site](https://img.shields.io/badge/buildaitoday.dev-14213D?style=for-the-badge&logo=googlechrome&logoColor=E8FF3A)](https://buildaitoday.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6F5C?style=for-the-badge&logo=linkedin&logoColor=E8FF3A)](https://www.linkedin.com/in/mo-zayim-aha)
-[![Email](https://img.shields.io/badge/mohamed@buildaitoday.dev-14213D?style=for-the-badge&logo=maildotru&logoColor=E8FF3A)](mailto:mohamed@buildaitoday.dev)
+<a href="README.fr.md"><img src="assets/btn-fr.svg" height="44" alt="Lire en français"/></a>
+
+<a href="https://buildaitoday.dev"><img src="assets/btn-site.svg" height="44" alt="buildaitoday.dev"/></a>
+<a href="https://www.linkedin.com/in/mo-zayim-aha"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>
+<a href="mailto:mohamed@buildaitoday.dev"><img src="assets/btn-email.svg" height="44" alt="mohamed@buildaitoday.dev"/></a>
 
 </div>
 

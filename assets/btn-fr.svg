@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="56" viewBox="0 0 250 56" role="img" aria-label="Lire en français">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#14213D"/><stop offset="1" stop-color="#1F6F5C"/></linearGradient>
+<filter id="gl" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.r{animation:p 3s ease-in-out infinite}@keyframes p{50%{stroke-opacity:.35}}</style>
+<rect x="2" y="2" width="246" height="52" rx="26" fill="url(#g)"/>
+<rect class="r" x="2" y="2" width="246" height="52" rx="26" fill="none" stroke="#E8FF3A" stroke-width="2" filter="url(#gl)"/>
+<g transform="translate(34 28)"><rect x="-11" y="-8" width="7.3" height="16" fill="#3B5BFF"/><rect x="-3.7" y="-8" width="7.4" height="16" fill="#ffffff"/><rect x="3.7" y="-8" width="7.3" height="16" fill="#FF4D5E"/></g>
+<text x="56" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Lire en français</text>
+</svg>
