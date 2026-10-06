@@ -1,99 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=260&section=header&text=Mohamed-Zayim&fontSize=82&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20×%20AI%20Builder%20×%20Learning%20in%20Public&descAlignY=58&descAlign=50" alt="Banner" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:14213D,100:1F6F5C&text=BUILDAI%20TODAY&fontColor=E8FF3A&fontSize=70&fontAlignY=38&animation=twinkling&desc=Mohamed-Zayim%20%C2%B7%20Zlarien%20%C2%B7%20Paris&descColor=FFFFFF&descSize=20&descAlignY=62" alt="BUILDAI TODAY" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=680&lines=Building+AI+tools+from+scratch+%F0%9F%94%A7;Voice+AI+%7C+Agentic+Workflows+%7C+MCP+Systems;Documenting+everything+on+BuildAIToday+%F0%9F%93%96;Architected+by+Humans.+Accelerated+by+AI.+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://buildaitoday.dev"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1400&color=E8FF3A&center=true&vCenter=true&width=680&lines=AI+is+accessible+to+everyone.;You+just+need+the+right+method+and+the+right+tools.;I+build+AI+agents+that+give+teams+their+hours+back.;Now+building+Bunny+%F0%9F%90%87+an+AI+fitness+companion." alt="Typing SVG"/></a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mo-zayim-aha/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:mohamed.zayim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
-</a>
-<a href="https://github.com/Zlarien/BuildAIToday">
-  <img src="https://img.shields.io/badge/Blog-BuildAIToday-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="BuildAIToday"/>
-</a>
-<a href="https://www.credly.com">
-  <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified"/>
-</a>
+[![Site](https://img.shields.io/badge/buildaitoday.dev-14213D?style=for-the-badge&logo=googlechrome&logoColor=E8FF3A)](https://buildaitoday.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6F5C?style=for-the-badge&logo=linkedin&logoColor=E8FF3A)](https://www.linkedin.com/in/mo-zayim-aha)
+[![Email](https://img.shields.io/badge/mohamed@buildaitoday.dev-14213D?style=for-the-badge&logo=maildotru&logoColor=E8FF3A)](mailto:mohamed@buildaitoday.dev)
 
 </div>
 
----
+### 👋 Who I am
 
-### 👤 Who I am
-
-> *"AI is not the replacement — it's the ultimate exoskeleton."*
-
-I'm **Mohamed-Zayim**, L2 CS student at **Université Paris-Saclay**, AWS Certified, and event staff at tech summits like *apidays*. It started with **Lua** — modding games until understanding the engine wasn't enough either.
-
-Now I build real AI-powered systems and document every step publicly on **[BuildAIToday](https://github.com/Zlarien/BuildAIToday)**.  
-Not tutorials. Not theory. Actual tools, actual mistakes, actual progress.
+For a long time I knew what I wanted to build, but I didn't act. The day I started, my first voice agent refused to work, again and again. Then a LinkedIn post led me to OpenCode, and the same agent finally spoke. Since then I'm convinced: **AI is accessible to everyone, with the right method and the right tools.**
 
 | | |
 |---|---|
-| 🔭 **Building** | Voice AI agents, MCP servers, agentic workflows |
-| 📖 **Documenting** | Every project on BuildAIToday — the wins and the fails |
-| 🎯 **Mission** | Make AI implementation accessible — from curious beginners to company teams |
-| 🌱 **Exploring** | Rust, real-time transcription, multi-agent systems |
+| 🎓 **Studying** | Computer science (L3) at Université d'Évry Paris-Saclay · admitted to **42 Paris** |
+| 🐇 **Building** | **Bunny**, an AI companion coach for fitness and health (local demo, not released yet) |
+| 🤖 **Shipping** | AI agents with **BuildAIToday**: prospecting, voice, automation |
+| 🎯 **Looking for** | A 3-month computer science internship from **April 2027** · people to build with |
 
----
+<sub>🇫🇷 Étudiant en informatique à Paris, je construis des agents IA et je conçois Bunny. Je cherche un stage de 3 mois dès avril 2027.</sub>
+
+### 🚀 Featured projects
+
+<div align="center">
+
+<a href="https://github.com/Zlarien/OwnAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=OwnAI&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="OwnAI"/></a>
+<a href="https://github.com/Zlarien/buildaitoday-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=buildaitoday-dashboard&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="NEXUS"/></a>
+<a href="https://github.com/Zlarien/aura-fashion-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=aura-fashion-ai&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="AURA"/></a>
+<a href="https://github.com/Zlarien/universal-voice-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=universal-voice-agent&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="Voice agent"/></a>
+<a href="https://github.com/Zlarien/42ParisPiscineAout2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=42ParisPiscineAout2026&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="42 Piscine"/></a>
+<a href="https://github.com/Zlarien/questloop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zlarien&repo=questloop&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF&icon_color=1F6F5C&border_color=1F6F5C" alt="QuestLoop"/></a>
+
+</div>
+
+| Project | In one honest line |
+|---|---|
+| **OwnAI** | A GPT and its BPE tokenizer rewritten from scratch in NumPy: 1,055,488 parameters, 84 tests. |
+| **NEXUS** | A local multi-agent runtime in FastAPI, 692 passing tests. Runs locally, never deployed. |
+| **AURA** | Solo 48-hour hackathon: a voice co-pilot for fashion showrooms, 7 agents incl. 4 in the main cascade. Prototype, never deployed. |
+| **Voice agent** | Talk to any character: Deepgram, GPT-4o-mini, ElevenLabs, Gradio. |
+| **42 Piscine** | 26 days out of 26 writing C by hand, final exam 87/100 in 8 hours. |
+| **QuestLoop** | My 12-year-old cousin's first project, built with Claude Code. |
 
 ### 🛠️ Stack
 
 <div align="center">
-
-| Core | Frontend & UI | AI & Agents | Creative |
-| :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white) | ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) | ![MCP](https://img.shields.io/badge/MCP_Protocol-6B21A8?style=flat&logo=anthropic&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) | ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white) |
-
+<img src="https://skillicons.dev/icons?i=py,c,ts,js,react,astro,fastapi,sqlite,java,git,linux,vscode&theme=dark&perline=12" alt="Stack"/>
 </div>
 
----
-
-### 🚀 Active Projects
-
-| Project | What it does | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[BuildAIToday](https://github.com/Zlarien/BuildAIToday)** | Personal blog — building & learning AI in public | Astro | 🟢 Live |
-| **[Augmented Student Stack](https://github.com/Zlarien/augmented-student-stack)** | Ultimate AI workflow for CS students | Docs | 🟢 Live |
-| **[AURA](https://github.com/Zlarien/aura-fashion-ai)** | Voice AI co-pilot for luxury fashion showrooms | Python, Voice AI | 🟢 Live |
-| **[Voxtral Transcription](https://github.com/Zlarien/voxtral-realtime-transcription)** | Real-time voice transcription pipeline | Python | 🟢 Live |
-| **[MCP Weather & Time](https://github.com/Zlarien/mcp-weather-system-time)** | MCP server — context-aware agent tools | Python | 🟢 Live |
-| **[Social Sentinel](https://github.com/Zlarien/social-sentinel)** | AI-powered social media monitoring agent | Python | 🟢 Live |
-| **[Vibe Code Starter](https://github.com/Zlarien/vibe-code-starter)** | Boilerplate for AI-accelerated development | JavaScript | 🟢 Live |
-| **[Resume Roaster](https://github.com/Zlarien/resume-roaster)** | Brutal AI feedback on your resume | HTML, AI | 🟢 Live |
-
----
-
-### 📊 Stats
+### 📊 Activity
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Zlarien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlarien&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-### 📖 BuildAIToday
-
-I document every build, every mistake, every breakthrough — in public.  
-From first-line vibe coding sessions to production-ready agentic pipelines.  
-**If I build it, I write about it.**
-
-**→ [Follow the build](https://github.com/Zlarien/BuildAIToday)**
-
----
-
-<div align="center">
-  <sub>CS Student @ Paris-Saclay · AWS Certified · April 2026</sub>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zlarien&show_icons=true&hide_border=true&bg_color=14213D&title_color=E8FF3A&icon_color=1F6F5C&text_color=FFFFFF&hide=stars" alt="Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlarien&layout=compact&hide_border=true&bg_color=14213D&title_color=E8FF3A&text_color=FFFFFF" alt="Languages"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Zlarien&background=14213D&ring=E8FF3A&fire=E8FF3A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E8FF3A&sideLabels=FFFFFF&dates=9AA5B1&hide_border=true" alt="Streak"/>
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Zlarien/Zlarien/output/snake-neon.svg" alt="Contribution snake"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%"/>
+
+**Want to build together, or hiring a CS intern for April 2027?** → **mohamed@buildaitoday.dev**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1F6F5C,100:14213D" width="100%"/>
+
 </div>

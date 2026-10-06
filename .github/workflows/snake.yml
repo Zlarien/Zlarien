@@ -1,0 +1,25 @@
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Zlarien
+          outputs: |
+            dist/snake-neon.svg?color_snake=#E8FF3A&color_dots=#14213D,#1F6F5C,#2E8B6E,#5FBF8F,#E8FF3A
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
