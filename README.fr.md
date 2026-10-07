@@ -2,7 +2,7 @@
 
 <img src="assets/header-fr.svg" width="100%" alt="BUILDAI TODAY, Mohamed-Zayim, agents IA, Paris"/>
 
-**Je construis des agents IA · étudiant en informatique à Paris (L3 · admis à 42 Paris)**
+**Je construis des agents IA · étudiant en informatique à Paris (L3 · admis à 42 Paris · certifié AWS)**
 
 <a href="README.md"><img src="assets/btn-en.svg" height="44" alt="Read in English"/></a>
 
