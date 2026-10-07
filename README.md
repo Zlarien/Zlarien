@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="BUILDAI TODAY, Mohamed-Zayim, AI agents, Paris"/>
 
-**AI agent builder · CS student in Paris (L3 · admitted to 42 Paris · AWS Certified)**
+**AI agent builder · CS student in Paris (L3 · admitted to 42 Paris)**
 
 <a href="README.fr.md"><img src="assets/btn-fr.svg" height="44" alt="Lire en français"/></a>
 
