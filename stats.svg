@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="GitHub stats">
+<style>.n{fill:#E8FF3A}.k{fill:#9fb3c8}.b{transform-box:fill-box;transform-origin:left;animation:g 1.6s ease-out both}@keyframes g{from{transform:scaleX(0)}}.f{animation:u .8s ease-out both}@keyframes u{from{opacity:0;transform:translateY(10px)}}</style>
+<rect width="1200" height="260" rx="18" fill="#14213D" stroke="#1F6F5C" stroke-width="2"/>
+<g class="f" style="animation-delay:0.0s"><text class="n" x="60" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="800">349</text><text class="k" x="60" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Contributions (1 year)</text></g>
+<g class="f" style="animation-delay:0.15s"><text class="n" x="330" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="800">20</text><text class="k" x="330" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Public repositories</text></g>
+<g class="f" style="animation-delay:0.3s"><text class="n" x="600" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="800">20</text><text class="k" x="600" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Stars</text></g>
+<g class="f" style="animation-delay:0.44999999999999996s"><text class="n" x="870" y="90" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="800">3</text><text class="k" x="870" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17">Followers</text></g>
+<rect class="b" style="animation-delay:0.3s" x="60" y="160" width="587" height="18" fill="#E8FF3A"/>
+<text class="k" x="60" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17"><tspan fill="#E8FF3A">●</tspan> JavaScript 54%</text>
+<rect class="b" style="animation-delay:0.42s" x="647" y="160" width="348" height="18" fill="#5FBF8F"/>
+<text class="k" x="276" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17"><tspan fill="#5FBF8F">●</tspan> Python 32%</text>
+<rect class="b" style="animation-delay:0.54s" x="995" y="160" width="91" height="18" fill="#2E8B6E"/>
+<text class="k" x="492" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17"><tspan fill="#2E8B6E">●</tspan> HTML 8%</text>
+<rect class="b" style="animation-delay:0.6599999999999999s" x="1086" y="160" width="27" height="18" fill="#9fb3c8"/>
+<text class="k" x="708" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17"><tspan fill="#9fb3c8">●</tspan> C 3%</text>
+<rect class="b" style="animation-delay:0.78s" x="1113" y="160" width="12" height="18" fill="#ffffff"/>
+<text class="k" x="924" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17"><tspan fill="#ffffff">●</tspan> Java 1%</text>
+</svg>
